@@ -9,8 +9,12 @@ Scheme](https://people.eecs.berkeley.edu/~bh/ss-toc2.html), de Brian Harvey e
 Matthew Wright, complementado com materiais extras da
 disciplina [MIT
 6.090](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-090-building-programming-experience-a-lead-in-to-6-001-january-iap-2005/),
-como uma preparação prévia para o estudo futuro do livro **Structure and
-Interpretation of Computer Programs**.
+como uma preparação prévia para o estudo futuro do livro [Structure and
+Interpretation of Computer
+Programs](https://mitpress.mit.edu/sites/default/files/sicp/index.html).
+
+Para maiores detalhes, veja o [1º vídeo desta
+série](https://www.youtube.com/watch?v=keLFp7-audU).
 
 Visite os endereços do Computação Raiz:
 
