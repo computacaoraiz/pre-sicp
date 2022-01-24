@@ -1,7 +1,8 @@
 ;;; The functions program
 
 (define (functions)
-  (read-line)
+  ;; Comentei a linha para funcionar corretamente com MIT/GNU Scheme 11.2
+  ;(read-line)
   (show "Welcome to the FUNCTIONS program.")
   (functions-loop))
 
